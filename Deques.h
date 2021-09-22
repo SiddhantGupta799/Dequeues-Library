@@ -1,7 +1,6 @@
 #ifndef DEQUES_H
 #define DEQUES_H
 
-#include <iostream>
 #include "Lists.h"
 
 namespace Py {
